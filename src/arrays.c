@@ -14,6 +14,7 @@ int main(){
     // 
 
     int numbers[]= {1, 2, 3, 4, 5}; // array declaration (size of 5)
+        // how to declare an array and initialize it with values
 
     printf("%d\n", numbers); // prints the memory address of the first element in the array
     printf("%d\n", numbers[0]); // access first element (index 0)
