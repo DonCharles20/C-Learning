@@ -15,17 +15,17 @@ int main()
     {
         if (isSenior)
         {
-            printf("You get a student discount of 10%\n");
-            printf("You get a senior discount of 20%\n");
+            printf("You get a student discount of 10%% \n");
+            printf("You get a senior discount of 20%% \n");
             price *= .7;
         }else{
-            printf("You get a student discount of 10%\n");
+            printf("You get a student discount of 10%% \n");
             price *= .9;
         }
        
         
     }else{
-        printf("You get a senior discount of 20%\n");
+        printf("You get a senior discount of 20%% \n");
         price *= .8;
     }
 
