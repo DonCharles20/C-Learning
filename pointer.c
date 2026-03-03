@@ -7,7 +7,7 @@ int main()
     // pointer = A varible that stores the memory address of
     // another varible.
     // Benefit: They help avoid wasting memory by allowing you to pass
-    // the address of a large data strctutreu insead of copying the
+    // the address of a large data strcuture insead of copying the
     // entire data.
 
     int age = 22;
